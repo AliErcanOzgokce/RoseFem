@@ -41,7 +41,6 @@ while True:
         functions.full()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -49,7 +48,6 @@ while True:
         functions.only_upper()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -57,7 +55,6 @@ while True:
         functions.only_lower()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -65,7 +62,6 @@ while True:
         functions.only_syms()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -73,7 +69,6 @@ while True:
         functions.only_nums()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -81,7 +76,6 @@ while True:
         functions.upper_lower()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -89,7 +83,6 @@ while True:
         functions.upper_nums()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -97,7 +90,6 @@ while True:
         functions.upper_symbols()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -105,7 +97,6 @@ while True:
         functions.lower_nums()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -113,7 +104,6 @@ while True:
         functions.lower_symbols()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -121,7 +111,6 @@ while True:
         functions.upper_lower_nums()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
@@ -129,7 +118,6 @@ while True:
         functions.lower_nums_symbols()
         choice = input("Would You Like To Create A New Password?(Y/n):")
         if choice in ["Yes","yes","y","Y"]:
-            os.system("cls")
             pass
         else:
             break
